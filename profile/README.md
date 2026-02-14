@@ -1,3 +1,3 @@
 # silentspike
 
-Neuro-symbolic simulation engine combining deterministic ECS world rules with probabilistic LLM agent decisions.
+Autonomous AI agents in a simulated office environment. Deterministic world simulation meets LLM-driven decision making.
