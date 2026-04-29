@@ -1,35 +1,35 @@
 # silentspike
 
-Software fuer regulierte Unternehmen und den oeffentlichen Sektor.
-Schwerpunkte: AI-Tooling, Agent-Supervision und On-Premise-Deployment.
+Software for regulated organizations and the public sector.
+Focus areas: AI tooling, agent supervision, and on-premise deployment.
 
-## Aktive Produkte
+## Active Products
 
 ### [ComplianceOS](https://github.com/silentspike/complianceos)
-KI-gestuetzte On-Premise Compliance-Audit-Plattform fuer ISO 27001, ISO 22301,
-NIS2, BSI IT-Grundschutz und weitere Standards. Proprietaere Software mit
-90-Tage-Evaluation-Pilot.
+AI-assisted on-premise compliance audit platform for ISO 27001, ISO 22301,
+NIS2, BSI IT-Grundschutz, and other standards. Proprietary software with
+a 90-day evaluation pilot.
 
 [Request evaluation](https://github.com/silentspike/complianceos/issues/new?template=evaluation_request.yml)
 
-## AI-Coding-Werkzeuge (Open Source)
+## AI Coding Tools (Open Source)
 
-Werkzeuge rund um den Einsatz von Coding-Agents in Engineering-Teams — Kontext, Operator-Kontrolle und Runtime-Grenzen.
+Tools around the operational use of coding agents in engineering teams — context, operator control, and runtime boundaries.
 
-- **[noaide](https://github.com/silentspike/noaide)** — Browser-basierte Real-time IDE und Operator-Console fuer AI Coding Agents
-- **[mainrag](https://github.com/silentspike/mainrag)** — Self-hosted Retrieval & Context Engine fuer private Code- und Wissensbasen, mit MCP-Server
-- **[project-sentinel](https://github.com/silentspike/project-sentinel)** — Reference-Testbed fuer Agent-Runtime-Governance, Sandbox-Isolation und Event-Sourcing
+- **[noaide](https://github.com/silentspike/noaide)** — Browser-based real-time IDE and operator console for AI coding agents
+- **[mainrag](https://github.com/silentspike/mainrag)** — Self-hosted retrieval and context engine for private code and knowledge bases, with MCP server
+- **[project-sentinel](https://github.com/silentspike/project-sentinel)** — Reference testbed for agent runtime governance, sandbox isolation, and event sourcing
 
 ## Production Engineering / Maintenance
 
-Echte Produktarbeit an externen Codebases mit kontinuierlicher Pflege gegen Upstream.
+Real product work on external codebases with continuous upstream maintenance.
 
-- **[netbird-machine-tunnel](https://github.com/silentspike/netbird-machine-tunnel)** — NetBird Fork mit Windows Pre-Login Machine Tunnel (AD/Kerberos via mTLS), laufend gegen Upstream synchronisiert
+- **[netbird-machine-tunnel](https://github.com/silentspike/netbird-machine-tunnel)** — NetBird fork with Windows pre-login machine tunnel (AD/Kerberos via mTLS), continuously synchronized against upstream
 
-## Weitere Projekte
+## Other Projects
 
-- **[worldsynth](https://github.com/silentspike/worldsynth)** — Professioneller Multi-Engine-Synthesizer
+- **[worldsynth](https://github.com/silentspike/worldsynth)** — Professional multi-engine synthesizer
 
-## Kontakt
+## Contact
 
-Siehe individuelle Repositories fuer Evaluation und Support.
+See individual repositories for evaluation and support.
